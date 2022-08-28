@@ -8,8 +8,7 @@ npx create-react-app react-php
 cd react-php  
 npm start  
 
-#### 모듈 추가
-##### 모듈 추가 시 낮은 버전이 설치되어 문제가 된다면 확인하고 높은 버전을 강제로 설치한다.
+#### 모듈 추가 ##### 모듈 추가 시 낮은 버전이 설치되어 문제가 된다면 확인하고 높은 버전을 강제로 설치한다.
 cd react-php  
 npm install react-bootstrap@2.5.0   
 npm install bootstrap  
